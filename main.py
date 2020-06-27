@@ -229,6 +229,6 @@ if __name__ == '__main__':
     zapis_raportu(sciezka_zap, wsp, dok, dok_bledow, wyrownanie, proces_iteracyjny, dlugosci,
                   v_dlugosci,m_dlugosci,katy,v_katy,m_katy,azymuty,v_azymuty,m_azymuty,mda,mdb,mk,ma,teraz)
     #Opracowali:
-    #Damian Ozga
-    #Kamil Olko
-    #Maria Słowiak
+    #inż. Damian Ozga
+    #inż. Kamil Olko
+    #inż. Maria Słowiak

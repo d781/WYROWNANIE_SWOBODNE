@@ -338,7 +338,7 @@ def zapis_raportu(sciezka, wsp, dok, dok_bledow, metoda,
     pl.write('{:^78}\n'.format('Loża Szyderców and Company'))
     pl.write('{:^78}\n'.format('PRZEDSTAWIA'))
     pl.write('{:^78}\n'.format('Wyrównanie sieci poziomej metodą najmniejszych kwadratów'))
-    pl.write('Wykonali:\nDamian Ozga\nKamil Olko\nMaria Słowiak\n')
+    pl.write('Wykonali:\ninż. Damian Ozga\ninż. Kamil Olko\ninż. Maria Słowiak\n')
     pl.write('{:^78}\n'.format('AGH 2020'))
     pl.write('<>' * 39)
     pl.write('\n')

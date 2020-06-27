@@ -202,7 +202,7 @@ def naglowek():
     print('{:^78}'.format('Loża Szyderców and Company'))
     print('{:^78}'.format('PRZEDSTAWIA'))
     print('{:^78}'.format('Wyrównanie sieci poziomej metodą najmniejszych kwadratów'))
-    print('Wykonali:\nDamian Ozga\nKamil Olko\nMaria Słowiak')
+    print('Wykonali:\ninż. Damian Ozga\ninż. Kamil Olko\ninż. Maria Słowiak')
     print('{:^78}'.format('AGH 2020'))
     print('<>' * 39)
     print('')
